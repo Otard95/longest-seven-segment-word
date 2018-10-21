@@ -1,0 +1,324 @@
+C:\longest-seven-segment-word>node index.js
+Checking 370099 words...
+
+-----------------Words of length 31-----------------
+dichlorodiphenyltrichloroethane
+
+-----------------Words of length 24-----------------
+pseudointernationalistic
+scientificophilosophical
+tetraiodophenolphthalein
+
+-----------------Words of length 23-----------------
+chlorotrifluoroethylene
+phenolsulphonephthalein
+polytetrafluoroethylene
+pseudophilanthropically
+transubstantiationalist
+
+-----------------Words of length 22-----------------
+cholecystenterorrhaphy
+counterclassifications
+dacryocystoblennorrhea
+dicyclopentadienyliron
+hyperconscientiousness
+historicocabbalistical
+philosophicohistorical
+pseudoaristocratically
+pseudoenthusiastically
+scleroticochorioiditis
+ultranationalistically
+
+-----------------Words of length 21-----------------
+anticonstitutionalist
+antiinstitutionalists
+antinationalistically
+antisupernaturalistic
+cholecystolithotripsy
+choledocholithotripsy
+counterclassification
+counterindoctrination
+counterinterpretation
+counterreconnaissance
+dehydrocorticosterone
+And 28 more words...
+
+-----------------Words of length 20-----------------
+acetylcholinesterase
+adrenocorticosteroid
+adrenocorticotrophic
+adrenocorticotrophin
+antiaristocratically
+anticapitalistically
+anticonfederationist
+anticonstitutionally
+antiecclesiastically
+antienthusiastically
+antiinstitutionalist
+And 77 more words...
+
+-----------------Words of length 19-----------------
+adenylpyrophosphate
+adrenocorticotropic
+allotransplantation
+annihilationistical
+anthropocentrically
+antianthropocentric
+antiphilosophically
+antisocialistically
+antisupernaturalist
+archconfraternities
+atherosclerotically
+And 191 more words...
+
+-----------------Words of length 18-----------------
+acrotrophoneurosis
+actinoelectrically
+actinotherapeutics
+anarchosyndicalist
+ancistrocladaceous
+anencephalotrophia
+anthropocentricity
+anthropopathically
+antiaristocratical
+anticensoriousness
+anticholinesterase
+And 408 more words...
+
+-----------------Words of length 17-----------------
+actinoelectricity
+actinostereoscopy
+actinotherapeutic
+adenohypersthenia
+anachronistically
+ancistrocladaceae
+anisocotyledonous
+anisoleucocytosis
+annihilationistic
+anteroposteriorly
+anthracosilicosis
+And 913 more words...
+
+-----------------Words of length 16-----------------
+absolutistically
+acanthocephalous
+acculturationist
+acetylacetonates
+acetylasalicylic
+acetylenediurein
+acetylrosaniline
+acetylsalicylate
+acetoacetanilide
+acetophenetidine
+acidoproteolytic
+And 1614 more words...
+
+-----------------Words of length 15-----------------
+abyssobenthonic
+abstractionists
+acanthocephalan
+accessoriusorii
+accountableness
+acculturational
+aceacenaphthene
+acerbityacerose
+acetabuliferous
+acetaldehydrase
+acetylcellulose
+And 2871 more words...
+
+-----------------Words of length 14-----------------
+abarticulation
+abrenunciation
+absorbefacient
+abstractedness
+abstractionist
+abstractitious
+abstrusenesses
+acanthocarpous
+acanthocephala
+acanthocephali
+acanthocladous
+And 4821 more words...
+
+-----------------Words of length 13-----------------
+abolitionised
+abolitionists
+abortifacient
+absorbability
+abstentionist
+abstractional
+acanthocereus
+acanthopodous
+acanthopteran
+acaudelescent
+acceleratedly
+And 7178 more words...
+
+-----------------Words of length 12-----------------
+abalienation
+abbotnullius
+abecedarians
+aberrational
+abirritation
+abjectedness
+abjudication
+ableptically
+abolitionary
+abolitionise
+abolitionist
+And 10370 more words...
+
+-----------------Words of length 11-----------------
+abacination
+abactinally
+abalienated
+abandonable
+abandonedly
+abarthrosis
+abarticular
+abashedness
+abashlessly
+abdications
+abecedarian
+And 13559 more words...
+
+-----------------Words of length 10-----------------
+abacterial
+abalienate
+abandoners
+abannition
+abaptiston
+abasedness
+abbeystead
+abbeystede
+abbotships
+abdication
+abducentes
+And 17079 more words...
+
+-----------------Words of length 9-----------------
+aaronical
+aaronitic
+abacinate
+abaciscus
+abactinal
+abaisance
+abalation
+abandoned
+abandonee
+abandoner
+abashedly
+And 20864 more words...
+
+-----------------Words of length 8-----------------
+aaronite
+abacisci
+abaction
+abaculus
+abacuses
+abaissed
+abalones
+abandons
+abapical
+abasedly
+abastard
+And 21239 more words...
+
+-----------------Words of length 7-----------------
+aaronic
+ababdeh
+abacate
+abacist
+abactor
+abaculi
+abaddon
+abadejo
+abadite
+abaised
+abaiser
+And 18636 more words...
+
+-----------------Words of length 6-----------------
+aaliis
+ababua
+abacay
+abacas
+abacli
+abacot
+abacus
+abadia
+abayah
+abanet
+abanic
+And 14477 more words...
+
+-----------------Words of length 5-----------------
+aahed
+aalii
+aaron
+abaca
+abaci
+abada
+abaff
+abaft
+aband
+abase
+abash
+And 8088 more words...
+
+-----------------Words of length 4-----------------
+aahs
+aals
+aani
+aaru
+abac
+abay
+abas
+abba
+abbe
+abby
+abbr
+And 3831 more words...
+
+-----------------Words of length 3-----------------
+aaa
+aah
+aal
+aas
+aba
+abb
+abc
+abd
+abe
+aby
+abl
+And 1234 more words...
+
+-----------------Words of length 2-----------------
+aa
+ab
+ac
+ad
+ae
+af
+ah
+ai
+ay
+al
+an
+And 230 more words...
+
+-----------------Words of length 1-----------------
+a
+b
+c
+d
+e
+f
+h
+i
+y
+j
+l
+And 7 more words...
